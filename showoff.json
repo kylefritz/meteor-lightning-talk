@@ -1,0 +1,8 @@
+{
+	"name": "Meteor Lighting Talk",
+	"sections": [
+		{"section":"1-getting-and-running"},
+		{"section":"2-how-works"},
+		{"section":"3-last-thoughts"}
+	]
+}
