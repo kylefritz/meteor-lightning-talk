@@ -3,6 +3,7 @@
  * but it's an interesting one
  * serious buzzword mashup
  * and it's fun
+ * [7 principles of meteor](http://docs.meteor.com/#sevenprinciples)
 
 !SLIDE
 # thanks!

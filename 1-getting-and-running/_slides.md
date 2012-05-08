@@ -40,9 +40,7 @@
  * tons of node packages (connect, mongose, handlebars, stylus, sockjs)
 
 !SLIDE bullets
-#demo
-
- * [demo](http://localhost:3000)
+#[demo](http://meteor-bmore.meteor.com/)
 
 !SLIDE bullets
 #Why talk about Meteor at Rails?
