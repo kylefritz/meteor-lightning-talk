@@ -1,6 +1,7 @@
 !SLIDE
 # [Meteor](http://www.meteor.com/) @ bmore on rails
 ## [meteor-bmore.heroku.com](http://meteor-bmore.heroku.com/)
+## [meteor-bmore.meteor.com](http://meteor-bmore.meteor.com/)
 ## i'm [@kylefritz](http://twitter.com/kylefritz)
 
 !SLIDE fullscreen middle
@@ -40,7 +41,7 @@
  * tons of node packages (connect, mongose, handlebars, stylus, sockjs)
 
 !SLIDE bullets
-#[demo](http://meteor-bmore.meteor.com/)
+#[demo](http://meteor-bmore.meteor.com/) [local](http://localhost:3000) [src](http://github.com/kylefritz/haii-meteor)
 
 !SLIDE bullets
 #Why talk about Meteor at Rails?
